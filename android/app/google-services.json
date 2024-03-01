@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91708595037",
+    "project_id": "to-do-list-app-2-b1984",
+    "storage_bucket": "to-do-list-app-2-b1984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91708595037:android:4c3c9a3f3cb2ab08e1e6b4",
+        "android_client_info": {
+          "package_name": "com.groundbreakingtodos.todolistapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbX0Sf6TM-62uw2aEB7qPSjXKKoIRZtqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
